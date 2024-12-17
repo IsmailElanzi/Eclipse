@@ -11,6 +11,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		int opcion;
+		//COMMIT 3
 		do {
 			System.out.println("Gestion de inventario - Elija una opcion");
 			System.out.println("1. Introducir datos nuevo inventario.");
